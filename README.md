@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TanjiCode
+- 🌱 I’m currently learning Java
